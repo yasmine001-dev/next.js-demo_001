@@ -1,0 +1,13 @@
+lecture 3
+--continue react hooks
+   --useEffect---->component life cycle
+   --useRef
+--component Interactions دا ممكن تشرحه child to parent (callback function)
+--form Handling--Controlled components(useState), Uncontrolled components(useRef)
+--Events
+  --onClick  عند الضغط
+  --onChange  عند تغيير input
+  --onSumbit  عند إرسال form
+  
+
+  --render list 
