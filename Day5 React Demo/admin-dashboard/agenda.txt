@@ -1,0 +1,10 @@
+lecture 5
+--Routing
+--protected routes
+  --shared layout
+  --nested routing 
+  --dynamic routing
+  --navigation (Link,Navigate(automatic redirection),useNavigate(programatically routing))
+  --useParams
+--call api in react (axios)
+--API and Json Server
